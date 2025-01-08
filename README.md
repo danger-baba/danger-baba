@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Danger-b;A+Development+Enthusiast..;Thanking+You+for+visiting...&center=true"></a></p>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Vishal Jha;A+Development+Enthusiast..;Thanking+You+for+visiting...&center=true"></a></p>
     
 # 🖥️ Technical Skills: 
 <p align="center">
