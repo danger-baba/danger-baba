@@ -1,8 +1,6 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=http%3A%2F%2Fcareerstudio.co.in%2Fsoftware-development%2F&psig=AOvVaw07E6w7LEzZxUZCCEMws1rm&ust=1737299182052000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCl3JXG_4oDFQAAAAAdAAAAABAE)
-<h1 align="center">Hi 👋, I'm Vishal Jha</h1>
-<h3 align="center">''NIT-UK CSE '25|Aspiring Software Engineer|AI,ML & Full-Stack Developer|Award-Winning Coder"</h3>
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danger-baba&label=Profile%20views&color=0e75b6&style=flat" alt="danger-baba" /> </p>
+<p align="center">
+<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height35=&lines=Hi👋+I'm+Vishal;A+Development+Enthusiast..;Thanking+You+for+visiting...&center=true"> <h3 align="center">''NIT-UK CSE '25|Aspiring Software Engineer|AI,ML & Full-Stack Developer|Award-Winning Coder"</h3></a></p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/danger-baba](https://github.com/danger-baba)
 
@@ -24,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danger-baba&show_icons=true&locale=en" alt="danger-baba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danger-baba&" alt="danger-baba" /></p>
+
